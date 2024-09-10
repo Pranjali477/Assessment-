@@ -2,6 +2,7 @@
 Assumptions
 
 We use selenium 4.13.0 dependency That why not use ChromeDriver exe file 
+
 The login page URL is https://app.germanyiscalling.com/common/login/.
 -------------------------------------------------------------------
 Valid credentials used for the successful login test are:
