@@ -1,9 +1,9 @@
 # Assessment-
 Assumptions
 
-We use selenium 4.13.0 dependency Thats why not used ChromeDriver exe file 
-The login page URL is: https://app.germanyiscalling.com/common/login/.
-
+We use selenium 4.13.0 dependency That why not use ChromeDriver exe file 
+The login page URL is https://app.germanyiscalling.com/common/login/.
+-------------------------------------------------------------------
 Valid credentials used for the successful login test are:
 	Username: nagawadepranav4@gmail.com
 	Password: Pranjali@123
