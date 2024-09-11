@@ -40,7 +40,7 @@ ExtentReports
 
 
 ----------------------------------------------------------------------------------------
-Excution Flow
+Execution Flow
 
 BeforeSuite: Initializes the ExtentReports object once before all tests.
 
