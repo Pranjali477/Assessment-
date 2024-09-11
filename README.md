@@ -1,7 +1,7 @@
 # Assessment-
 Assumptions
 
-We use selenium 4.13.0 dependency That why not use ChromeDriver exe file 
+We use selenium 4.13.0 dependency that's why not use ChromeDriver exe file 
 
 The login page URL is https://app.germanyiscalling.com/common/login/.
 -------------------------------------------------------------------
